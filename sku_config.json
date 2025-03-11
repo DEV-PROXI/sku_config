@@ -1,5 +1,5 @@
 {
-    "allowed_magasins": ["2000", "2303", "2001"],
+    "allowed_magasins": ["2000", "2303", "2001", "2900"],
     "mapping_groups": {
         "CS09-AL84T3": ["CS09-AL84T3-I", "CS09-AL84T3-O"],
         "CS12-AL84T3": ["CS12-AL84T3-I", "CS12-AL84T3-O"],
